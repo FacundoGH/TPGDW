@@ -1,0 +1,214 @@
+body{
+position: relative;
+width: 1542px;
+height: 1365px;
+background: linear-gradient(180deg, #042067 0%, rgba(0, 71, 255, 0) 100%);
+}
+.navbar{
+    position: relative;
+    top: 25px;
+    left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.navtext{
+    text-decoration: none, underline;
+    color: white;
+    font-size: 35px;
+}
+.boton{
+    text-decoration: underline;
+    background: linear-gradient(180deg, #042067 0%, rgba(0, 71, 255, 0) 0%);
+    color: #FFFFFF;
+    font-size: 35px;
+    border: none;
+}
+.links{
+    position: relative;
+    right: 150px;
+    bottom: -200px;
+    display:block;
+    background-color: black;
+    padding-left: 1200px;
+}
+/* Hasta aca llega el navbar  */
+.art1{
+position: absolute;
+width: 803px;
+height: 87px;
+left: 48px;
+top: 100px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+color: #FFFFFF;
+}
+.art2{
+border: black;
+padding: 20px;
+position: absolute;
+width: 1216px;
+height: 111px;
+left: 46px;
+top: 250px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.art3{
+position: absolute;
+width: 803px;
+height: 87px;
+left: 48px;
+top: 400px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+color: #FFFFFF;
+}
+.art4{
+background-color: black;
+padding: 20px;
+position: absolute;
+width: 1216px;
+height: 111px;
+left: 46px;
+top: 550px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.art5{
+position: absolute;
+width: 803px;
+height: 87px;
+left: 48px;
+top: 700px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+color: #FFFFFF;
+}
+.art6{
+background-color: black;
+padding: 20px;
+position: absolute;
+width: 1216px;
+height: 111px;
+left: 46px;
+top: 920px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+/* Hasta aca llega el Article */
+footer{
+    position: relative;
+    top: 900px;
+    width: 2000px;
+}
+.t1{
+    position: relative;
+    left: 790px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.t2{
+    position: relative;
+    left: 1000px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.link1{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 300px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link2{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link3{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 332px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link4{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link5{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 165px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link6{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.imgfooter{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    width: 300px;
+    height: 200px;
+}
+.p1{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.p2{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: chartreuse;
+    font-size: 20px;
+}

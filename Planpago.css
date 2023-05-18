@@ -1,0 +1,202 @@
+body{
+    position: relative;
+width: 1542px;
+height: 1365px;
+background: linear-gradient(180deg, #042067 0%, rgba(0, 71, 255, 0) 100%);
+}
+.navbar{
+    position: relative;
+    top: 25px;
+    left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.navtext{
+    text-decoration: none, underline;
+    color: white;
+    font-size: 35px;
+}
+.boton{
+    text-decoration: underline;
+    background: linear-gradient(180deg, #042067 0%, rgba(0, 71, 255, 0) 0%);
+    color: #FFFFFF;
+    font-size: 35px;
+    border: none;
+}
+.links{
+    position: relative;
+    right: 150px;
+    bottom: -200px;
+    display:block;
+    background-color: black;
+    padding-left: 1200px;
+}
+/* Hasta aca llega el navbar  */
+
+.art1{
+position: absolute;
+text-decoration: underline;
+left: 670px;
+top: 120px;
+font-family: 'Inter';
+font-weight: 700;
+font-size: 36px;
+color: #FFFFFF;
+}
+.art2{
+position: absolute;
+left: 622px;
+top: 200px;
+font-family: 'Inter';
+font-weight: 700;
+font-size: 36px;
+color: #FFFFFF;
+}
+.titl1{
+    margin-left: 70px;
+    font-size: 22px;
+}
+.art3{
+background-color: #D9D9D9;
+position: absolute;
+top: 350px;
+left: 100px;
+width: 320px;
+height: 700px;
+}
+.titl2{
+    margin-left: 60px;
+    font-size: 22px;
+}
+.precio2{
+    text-align: center;
+    margin-left: -20px;
+    color: #FFFFFF;
+    background-color: black;
+    padding: 20px;
+    width: 300px;
+}
+.art4{
+background-color: #D9D9D9;
+position: absolute;
+top: 350px;
+left: 700px;
+width: 320px;
+height: 800px;
+}
+.titl3{
+    margin-left: 60px;
+    font-size: 22px;
+}
+.precio3{
+    text-align: center;
+    margin-left: -20px;
+    color: #FFFFFF;
+    background-color: black;
+    padding: 20px;
+    width: 300px;
+}
+.art5{
+background-color: #D9D9D9;
+position: absolute;
+top: 350px;
+left: 1300px;
+width: 320px;
+height: 880px;
+}
+/* Hasta aca llega el Article */
+footer{
+    position: relative;
+    top: 950px;
+    width: 2000px;
+}
+.t1{
+    position: relative;
+    left: 790px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.t2{
+    position: relative;
+    left: 1000px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.link1{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 300px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link2{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link3{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 332px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link4{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link5{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 165px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link6{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.imgfooter{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    width: 300px;
+    height: 200px;
+}
+.p1{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.p2{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: chartreuse;
+    font-size: 20px;
+}

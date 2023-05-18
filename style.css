@@ -1,0 +1,204 @@
+body{
+    position: relative;
+width: 1542px;
+height: 1365px;
+background: linear-gradient(180deg, #042067 0%, rgba(0, 71, 255, 0) 100%);
+}
+.navbar{
+    position: relative;
+    top: 25px;
+    left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.navtext{
+    text-decoration: none, underline;
+    color: white;
+    font-size: 35px;
+}
+.boton{
+    text-decoration: underline;
+    background: linear-gradient(180deg, #042067 0%, rgba(0, 71, 255, 0) 0%);
+    color: #FFFFFF;
+    font-size: 35px;
+    border: none;
+}
+.links{
+    position: relative;
+    right: 150px;
+    bottom: -200px;
+    display:block;
+    background-color: black;
+    padding-left: 1200px;
+}
+/* Hasta aca llega el navbar  */
+
+.art1{
+    position: absolute;
+width: 577px;
+height: 130px;
+left: 78px;
+top: 179px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.art2{
+    position: absolute;
+width: 769px;
+height: 99px;
+left: 77px;
+top: 387px;
+font-weight: 400;
+font-size: 24px;
+color: #FFFFFF;
+}
+.aplicar{
+position: absolute;
+top: 550px;
+left: 70px;
+background: #ADFF6D;
+border-radius: 25px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-decoration-line: underline;
+color: #000000;
+padding: 30px;
+width: 200px;
+padding-left: 40px;
+}
+.art3{
+position: absolute;
+left: 770px;
+top: 720px;
+width: 364px;
+height: 58px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.art4{
+position: absolute;
+top: 830px;
+left: 450px;
+width: 1045px;
+height: 104px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+}
+.artlogo{
+    position: absolute;
+    left: 1100px;
+    top: 200px;
+    width: 600px;
+    height: 400px;
+}
+/* Hasta aca llega el Article */
+footer{
+    position: relative;
+    top: 650px;
+    width: 2000px;
+}
+.t1{
+    position: relative;
+    left: 790px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.t2{
+    position: relative;
+    left: 1000px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.link1{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 300px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link2{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link3{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 332px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link4{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link5{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 165px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link6{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.imgfooter{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    width: 300px;
+    height: 200px;
+}
+.p1{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.p2{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: chartreuse;
+    font-size: 20px;
+}
